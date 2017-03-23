@@ -1,0 +1,65 @@
+.titleText {
+	color: #DFDFDF;
+	font-family: 'Russo One', sans-serif;
+	font-size: 70px;
+	text-align: center;
+}
+
+.navHeight{
+	height: 200px;
+	background-image: url(../assets/images/fieldbg.jpg);
+	/*background-color: black;*/
+	background-size: cover;
+	border-bottom: #DE4F08;
+    border-style: solid;
+}
+
+#buttonAlign{
+	margin-top: 25%;
+	margin-right: 17px;
+}
+
+body{
+
+	background-size: inherit;
+	background-image: url(../assets/images/blackbg.jpg);
+}
+
+.container-full{
+
+	margin: 0 auto;
+	width: 100%;
+}
+
+.jumbotronbg{
+/*background-color: black;*/
+background-size: 100% 100%;
+/*background-image: url(../assets/images/fieldbg.jpg);*/
+background-image: url(../assets/images/entrance.gif);
+
+height: 500px;}
+
+.jumbotronArticles{
+	background-color: red;
+background-size: cover;
+
+height: 400px;}
+}
+
+.middleWidth{
+	width: 100%;
+	background-color: red;
+}
+
+.textAlign{
+	text-align: center;
+}
+.buttonOutline{
+	border: #DE4F08;
+	border-style: solid;
+}
+
+.articleBG{
+	background-color:red;
+}
+
